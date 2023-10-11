@@ -1,4 +1,4 @@
-#AngularBlog
+#PSN-Store
 
 #Store
 
