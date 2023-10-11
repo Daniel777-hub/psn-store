@@ -1,6 +1,4 @@
-#PSN-Store
-
-#Store
+## PSN-Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) in version 14.1.2.
 
