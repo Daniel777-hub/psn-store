@@ -28,8 +28,3 @@ Run `ng e2e` to run end-to-end tests on a platform of your choice. To use this c
 
 For more help with Angular CLI, use `ng help` or see the [Angular CLI Command Overview and Reference] page (https://angular.io/cli).
 
----
-
-Credits:
-
-This project was developed with the guidance of Felipe Aguiar from the Dio platform.
